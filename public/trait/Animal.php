@@ -14,6 +14,7 @@ trait AnimalRunable{
 
 class Animal{
     use AnimalRunable;
+//    use reflectionAble;
     private $high;
     protected $length;
     public $age;
@@ -21,8 +22,10 @@ class Animal{
     public function getName(){
         echo "Animal Name.";
     }
+
 }
 
 //$animal = new Animal();
+//var_dump($animal ->publics());
 //$animal -> getName();
 //$animal->run();
