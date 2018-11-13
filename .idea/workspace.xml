@@ -35,7 +35,7 @@
           <entry key="aliases" value="1" />
           <entry key="json" value="2" />
           <entry key="md" value="7" />
-          <entry key="php" value="27" />
+          <entry key="php" value="31" />
           <entry key="sh" value="1" />
           <entry key="yaml" value="1" />
         </counts>
@@ -44,7 +44,7 @@
         <counts>
           <entry key="JSON" value="2" />
           <entry key="Markdown" value="7" />
-          <entry key="PHP" value="27" />
+          <entry key="PHP" value="31" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="YAML" value="1" />
         </counts>
@@ -52,14 +52,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="184" />
-          <entry key="php" value="5184" />
+          <entry key="php" value="5186" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="184" />
-          <entry key="PHP" value="5184" />
+          <entry key="PHP" value="5186" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -84,11 +84,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/get_class_property/BobUser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="116">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding>
+                <element signature="e#6#256#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/regular/dollarTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/tz.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="228" lean-forward="true" selection-start-line="228" selection-end-line="228" />
+              <folding>
+                <element signature="e#20#26#0" expanded="true" />
+                <element signature="e#29#35#0" expanded="true" />
+                <element signature="e#22#28#0" expanded="true" />
+                <element signature="e#31#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,9 +167,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>foreach</find>
+      <find>信息（phpinfo）：</find>
+      <find>eregi</find>
+      <find>PHP_SELF</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>$_SERVER['PHP_SELF']</replace>
+      <replace>preg_match</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -172,6 +204,7 @@
         <option value="$PROJECT_DIR$/public/get_class_property/GetPubVarsAble.php" />
         <option value="$PROJECT_DIR$/public/get_class_property/Food.php" />
         <option value="$PROJECT_DIR$/public/get_class_property/BobUser.php" />
+        <option value="$PROJECT_DIR$/public/tz.php" />
       </list>
     </option>
   </component>
@@ -221,23 +254,6 @@
               <item name="Test" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="get_class_property" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="reflection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -255,6 +271,7 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/public/get_class_property" />
       <recent name="$PROJECT_DIR$/public/reflection" />
       <recent name="$PROJECT_DIR$/public/trait" />
@@ -292,18 +309,18 @@
       <workItem from="1541676274670" duration="4956000" />
       <workItem from="1541728644066" duration="13763000" />
       <workItem from="1542013422173" duration="7000" />
-      <workItem from="1542072294453" duration="12801000" />
+      <workItem from="1542072294453" duration="14752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39254000" />
+    <option name="totallyTimeSpent" value="41205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2832618" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2832618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,7 +333,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36746988" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36746988" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -404,13 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/regular/dollarTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -532,8 +542,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/get_class_property/BobUser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="116">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#256#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/regular/dollarTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/tz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="228" lean-forward="true" selection-start-line="228" selection-end-line="228" />
+          <folding>
+            <element signature="e#20#26#0" expanded="true" />
+            <element signature="e#29#35#0" expanded="true" />
+            <element signature="e#22#28#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
