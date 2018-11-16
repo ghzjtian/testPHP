@@ -11,6 +11,36 @@
       <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/laravel/homestead" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/mongodb" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/mongodb/mongodb" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/vendor/.idea/dictionaries" />
+      <path value="$PROJECT_DIR$/vendor/public/get_class_property" />
+      <path value="$PROJECT_DIR$/vendor/public/reflection" />
+      <path value="$PROJECT_DIR$/vendor/public/trait" />
+      <path value="$PROJECT_DIR$/vendor/public/MongoDB" />
+      <path value="$PROJECT_DIR$/vendor/public/regular" />
+      <path value="$PROJECT_DIR$/vendor/vendor/nesbot" />
+      <path value="$PROJECT_DIR$/vendor/vendor/jenssegers" />
+      <path value="$PROJECT_DIR$/vendor/vendor/laravel" />
+      <path value="$PROJECT_DIR$/vendor/vendor/bin" />
+      <path value="$PROJECT_DIR$/vendor/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/vendor/doctrine" />
+      <path value="$PROJECT_DIR$/vendor/vendor/symfony" />
+      <path value="$PROJECT_DIR$/vendor/vendor/illuminate" />
+      <path value="$PROJECT_DIR$/vendor/vendor/mongodb" />
+      <path value="$PROJECT_DIR$/vendor/vendor/psr" />
+      <path value="$PROJECT_DIR$/vendor/.vagrant/rgloader" />
+      <path value="$PROJECT_DIR$/vendor/.vagrant/machines" />
     </include_path>
   </component>
 </project>
