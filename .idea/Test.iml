@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/vendor/.idea/dictionaries" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/.idea/inspectionProfiles" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/.vagrant/machines" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/.vagrant/rgloader" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />

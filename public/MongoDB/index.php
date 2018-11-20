@@ -2,16 +2,7 @@
 /**
  * 本文参考:[PHP7 MongDB 安装与使用](http://www.runoob.com/mongodb/php7-mongdb-tutorial.html)
  */
-require '../../vendor/autoload.php'; // include Composer's autoloader
-
-//$client = new MongoDB\Client("mongodb://localhost:27017");
-//$collection = $client->demo->beers;
-//
-//$result = $collection->insertOne( [ 'name' => 'Hinterland', 'brewery' => 'BrewDog' ] );
-//
-//echo "Inserted with Object ID '{$result->getInsertedId()}'";
-
-
+//require '../../vendor/autoload.php'; // include Composer's autoloader
 
 
 $manager = new MongoDB\Driver\Manager("mongodb://localhost:27017");

@@ -41,6 +41,7 @@
       <path value="$PROJECT_DIR$/vendor/vendor/psr" />
       <path value="$PROJECT_DIR$/vendor/.vagrant/rgloader" />
       <path value="$PROJECT_DIR$/vendor/.vagrant/machines" />
+      <path value="$PROJECT_DIR$/vendor/.idea/inspectionProfiles" />
     </include_path>
   </component>
 </project>
